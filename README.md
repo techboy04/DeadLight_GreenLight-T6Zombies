@@ -22,9 +22,10 @@ You will have to open console and type in ```set enable_deadlightgreenlight 1```
 
 There is one configurable option!
 
-``set deadlight_rules 0/1`` - Choose whether or not you wanna use the improved rules or the rules from Black Ops 6.
-0 - The Improved Rules. Basically allows the punishments.
-1 - Bo6's rules. Doesn't include punishments.
+``set deadlight_rules 0/1/2`` - Choose whether or not you wanna use the improved rules or the rules from Black Ops 6.
+- 0 - The Improved Rules. Basically allows the punishments.
+- 1 - Bo6's rules. Doesn't include punishments.
+- 2 - Squid Game's rules. Instead of losing points or getting punish, you get downed.
 
 ## Got a Bug or a Suggestion?
 As this mode is still being worked on, I accept suggestions and bugs. [Join the Discord server](https://discord.gg/dkwyDzW), Grab the Call of Duty role, and report it to [#technoops-forums](https://discord.com/channels/399600672586203137/1032884888468213811)
