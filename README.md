@@ -19,7 +19,7 @@ There are two different versions, the mod version (Recommended for the full expe
 ## Installation
 Download zm_deadlight zip and put it in your Plutonium T6 mods folder
 
-```%localappdata%\Plutonium\storage\t6\mods\zm\```
+```%localappdata%\Plutonium\storage\t6\mods\```
 
 (if the folder isnt there create them)
 
